@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning data science and machine learning
 <!--
 **StephenMungaiNganga/StephenMungaiNganga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
